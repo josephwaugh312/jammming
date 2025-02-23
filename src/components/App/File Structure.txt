@@ -1,0 +1,23 @@
+src/
+  ├── components/
+  │   ├── Authentication/
+  │   │   ├── Login.jsx
+  │   │   └── SignUp.jsx
+  │   ├── SearchBar/
+  │   │   └── SearchBar.jsx
+  │   ├── SearchResults/
+  │   │   └── SearchResults.jsx
+  │   ├── Playlist/
+  │   │   └── Playlist.jsx
+  │   └── App
+  |   |    |-App.jsx
+           |-App.css
+           |-App.test.js
+      |----Track
+            |-Track.jsx
+      |---Tracklist
+          |--Tracklist.jsx
+  ├── utils/
+  │   ├── Spotify.js
+  │   └── api.js
+  └── ...
